@@ -7,6 +7,7 @@ namespace CsharpTestMattias
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Pretty cool, ain't it?");
         }
     }
 }
